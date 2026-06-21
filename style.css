@@ -9,3 +9,12 @@ body{
     background-color: #37528b;
 
 }
+
+.first{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    border-radius: 10px;
+
+}
