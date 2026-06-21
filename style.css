@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.first {
+    width: 80%;
+    height: 80%;
+    background: red;
+}
